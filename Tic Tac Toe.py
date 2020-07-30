@@ -13,8 +13,6 @@ def display_board(board):
     print('\t\t|\t\t|\t\n\t' + board[7] + '\t|\t' + board[8] + '\t|\t' + board[9] + '\n\t\t|\t\t|\t')
 
 
-test_board = ['#', 'X', 'O', 'X', 'O', 'X', 'O', 'X', 'O', 'X']
-
 
 def player_input():
     """
